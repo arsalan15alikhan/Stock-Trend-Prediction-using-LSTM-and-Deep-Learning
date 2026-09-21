@@ -1,4 +1,4 @@
-# Stock-Trend-Prediction-using-LSTM-and-Deep-Learning
+# 📈 StockSense — LSTM-Powered Stock Price Prediction
 
 > Predicting tomorrow's price, one candle at a time — powered by Deep Learning and served through Flask.
 
